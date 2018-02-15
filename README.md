@@ -4,22 +4,21 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(February 14, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Caitlin Roberts)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this lesson we learned how to modify and display variables as well as use elements to refrence id values. =)
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+(git@github.com:ccr16/lesson4_javascript1.git)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (How to use  the getElementbyId() method.)
+2. (How to declare and modify variables.)
+3. (How to associate events with HTML.)
 
 
 
